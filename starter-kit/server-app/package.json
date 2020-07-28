@@ -4,6 +4,7 @@
   "description": "Call for Code 2020 solution starter kit for natural disaster resiliency",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
